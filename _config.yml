@@ -8,10 +8,10 @@ language: "" # language to set into html tag, default is en
 
 author: Jorge Clésio
 author-title: Desenvolvedor Web
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
+#gravatar: d36a082aacb53b6f76869748fb4b81d4
+#email: wendelladriel.ti@gmail.com
 twitter: jorgeclesio
-github: 
+#github: 
 googleplus: +jorgeclesio
 facebook: jorgeclesio
 linkedin: jorgeclesio/pt
