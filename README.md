@@ -4,7 +4,7 @@
 
 # Dev Curriculum
 
-> Instant web curriculum generator for developers
+> Gerador instatâneo de Currículo para desenvolvedores
 
 ## What is this?
 
